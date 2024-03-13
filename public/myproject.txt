@@ -1,0 +1,1 @@
+this strapi is used for storing the data online
